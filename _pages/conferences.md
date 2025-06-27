@@ -20,6 +20,7 @@ author_profile: true
 -  2024: *Advanced Training in Impact Evaluation of Development Policies*; Sapienza University, IFAD.
 ## Network 
 - *2024: Global Youth Leaders Program – Innovation and Digital Transformation (G7-G20)*
+  
 I was selected for the Global Youth Leaders Program 2024 in the ”Innovation and Digital Transformation” priority area. I engaged with experts from the Italian G7 Presidency, international organizations and major companies, contributing to policy proposals. The program was supported by ILO, UNDP, OECD, UNICEF, UN SDG Lab, FAO, WFP and UNSSC.
 ---
 
