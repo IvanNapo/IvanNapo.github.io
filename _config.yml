@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Ivan Napoli"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Ivan Napoli"
 description              : &description "Personal Description"
