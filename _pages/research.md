@@ -27,7 +27,7 @@ author_profile: true
 - **Zambia Evidence Lab (ZEL) PhD Visiting Fellowship; IGC, LSE; Lusaka, Zambia**
   
   *The Zambia Evidence Lab (ZEL) is a ground-breaking, government-led project spearheaded by the Government of Zambia’s Ministry of Finance and National Planning (MoFNP) with support from the International Growth Centre (IGC), a global research centre based at the London School of Economics.*
-- **Digital Humanism Junior Visiting Fellowship – Institute for Human Sciences (IWM); Wien, Austria**
+- **Digital Humanism Jr. Visiting Fellowship; Institute for Human Sciences (IWM); Wien, Austria**
   
    *The Digital Humanism Fellowship aims to shed light on the societal implications of digital technologies, within a program exploring the relationship between technology and humanity in the spirit of the Vienna Manifesto on Digital Humanism.*
 - **PhD student Università Cattolica del Sacro Cuore; Milan, Italy**
