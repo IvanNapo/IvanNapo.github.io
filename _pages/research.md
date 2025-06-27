@@ -33,4 +33,5 @@ author_profile: true
 - **PhD student Università Cattolica del Sacro Cuore; Milan, Italy**
   
    *39° Cycle PhD Program in Innovation Studies, Political Economy Department at Università Cattolica del Sacro Cuore.
-   Supervisor: Prof. Gabriele Pellegrino; Prof. Stefano Bianchini*
+
+  Supervisor: Prof. Gabriele Pellegrino; Prof. Stefano Bianchini.*
