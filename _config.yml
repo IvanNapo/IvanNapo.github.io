@@ -23,11 +23,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "website.jpeg"
-  avatar_shape     : "square"
   name             : "Ivan Napoli"
-  pronouns         : # example: "she/her"  
+  pronouns         : "He/him"  
   bio              : "PhD candidate in Economics of Innovation"
-  location         : "Milan, Italy"
+  location         : "Varese, Italy"
   uri              : # URL
   email            : "ivan.napoli@unicatt.it" 
 
