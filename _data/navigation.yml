@@ -9,7 +9,7 @@
 
 main:
   - title: "Research"
-    url: /pages/research.md
+    url: /research/
 
   - title: "Conferences"
     url: /talks/    
