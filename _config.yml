@@ -23,6 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "website.jpeg"
+  avatar_shape     : "square"
   name             : "Ivan Napoli"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate in Economics of Innovation"
