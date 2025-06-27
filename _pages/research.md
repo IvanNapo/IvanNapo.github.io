@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## Working Papers & Research in Progress
+## Research in Progress
 
 - **ChatPhD: The Role of LLMs in Shaping the Research Practices and Productivity of Young Scholars**  
   Stefano Bianchini, Ivan Napoli, Pierre Pelletier, Gabriele Pellegrino
