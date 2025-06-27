@@ -12,8 +12,8 @@ site_theme               : "default"
 title                    : "Ivan Napoli"
 title_separator          : "-"
 name                     : &name "Ivan Napoli"
-description              : &description "PhD candidate in Economics of Innovation"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+description              : &description "Personal Description"
+url                      : https://ivannapo.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -33,7 +33,7 @@ author:
 
   # Social media
  
-  linkedin         : # "https://www.linkedin.com/in/ivan-napoli-0123/"
+  linkedin         : # "ivan-napoli-0123"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
