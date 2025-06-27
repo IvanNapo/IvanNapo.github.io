@@ -32,6 +32,6 @@ author_profile: true
    *The Digital Humanism Fellowship aims to shed light on the societal implications of digital technologies, within a program exploring the relationship between technology and humanity in the spirit of the Vienna Manifesto on Digital Humanism.*
 - **PhD student Università Cattolica del Sacro Cuore; Milan, Italy**
   
-   *39° Cycle PhD Program in Innovation Studies, Political Economy Department at Università Cattolica del Sacro Cuore.
+   *39° Cycle PhD Program in Innovation Studies, Political Economy Department at Università Cattolica del Sacro Cuore.*
 
-  Supervisor: Prof. Gabriele Pellegrino; Prof. Stefano Bianchini.*
+   *Supervisor: Prof. Gabriele Pellegrino; Prof. Stefano Bianchini.*
