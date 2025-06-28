@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: justify">
 
 Hello! I’m Ivan Napoli, a PhD candidate in *Economics of Innovation* at **Università Cattolica del Sacro Cuore** in Milan.
 
@@ -25,4 +24,3 @@ A real **“about me”**? I have a *mild* obsession with world flags, and *Midn
 
 Current read: *Dark Star Safari* by Paul Theroux.
 
-</div>
