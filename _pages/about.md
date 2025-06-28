@@ -24,3 +24,7 @@ A real **“about me”**? I have a *mild* obsession with world flags, and *Midn
 
 Current read: *Dark Star Safari* by Paul Theroux.
 
+<p align="center">
+  <img src="/images/book.jpg" alt="Ivan Napoli" width="200px">
+</p>
+
