@@ -25,6 +25,6 @@ A real **“about me”**? I have a *mild* obsession with world flags, and *Midn
 Current read: *Dark Star Safari* by Paul Theroux.
 <p align="center">
   <a href="https://www.bbc.co.uk/programmes/b039bg5h" target="_blank">
-    <img src="/images/book.jpg" alt="Ivan Napoli" width="200px">
+    <img src="{{ '/images/book.jpeg' | relative_url }}" alt="Ivan Napoli" width="200px" />
   </a>
 </p>
