@@ -28,7 +28,7 @@ Below are some of the books that have significantly shaped my economic thinking 
     <em>Thomas Piketty</em>
   </li>
   <li>
-    <a href="https://www.goodreads.com/book/show/23316526-the-second-machine-age?from_search=true&from_srp=true&qid=bt3DlPm0zH&rank=1"_blank"><strong>The Second Machine Age</strong></a><br>
+  <a href="https://www.goodreads.com/book/show/23316526-the-second-machine-age?from_search=true&from_srp=true&qid=bt3DlPm0zH&rank=1" target="_blank"><strong>The Second Machine Age</strong></a>
     <em>Brynjolfsson & McAfee</em>
   </li>
   <li>
