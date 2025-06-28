@@ -315,4 +315,4 @@ compress_html:
   #
   sass:
   style: compressed
-  custom_css: "/assets/css/custom.css"
+  customs_css: "/assets/css/customs.css"
