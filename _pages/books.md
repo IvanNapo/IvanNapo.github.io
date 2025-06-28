@@ -15,7 +15,7 @@ Below are some of the books that have significantly shaped my economic thinking 
     <a href="https://www.goodreads.com/book/show/10245602-poor-economics?from_search=true&from_srp=true&qid=3D9WvcvADW&rank=1" target="_blank"><strong>Poor Economics</strong></a><br>
     <em>Banerjee & Duflo</em>
   </li>
-  li>
+  <li>
     <a href="https://www.goodreads.com/book/show/33600.Shantaram?from_search=true&from_srp=true&qid=NTSgr4KJmT&rank=1"><strong>Shantaram</strong></a><br>
     <em>Gregory David Roberts</em>
   </li>
