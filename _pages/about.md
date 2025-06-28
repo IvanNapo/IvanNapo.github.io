@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I’m Ivan, a PhD candidate in Economics of Innovation at Università Cattolica del Sacro Cuore in Milan. My research explores the intersection between artificial intelligence and social sustainability, with a particular focus on how digital technologies shape educational and inclusion opportunities.
+Hello! I’m Ivan, a PhD candidate in Economics of Innovation at Università Cattolica del Sacro Cuore in Milan. 
+
+My research explores the intersection between artificial intelligence and social sustainability, with a particular focus on how digital technologies shape educational and inclusion opportunities.
 
 I am currently investigating the impact of large language models on the research practices and productivity of PhD students, as part of a broader effort to understand the socio-economic implications of AI adoption in academic and professional contexts. 
 
