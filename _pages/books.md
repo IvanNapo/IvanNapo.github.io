@@ -31,7 +31,6 @@ Below are some of the books that have significantly shaped my economic thinking 
     <a href="https://www.goodreads.com/book/show/23316526-the-second-machine-age?from_search=true&from_srp=true&qid=bt3DlPm0zH&rank=1"_blank"><strong>The Second Machine Age</strong></a><br>
     <em>Brynjolfsson & McAfee</em>
   </li>
-  <
   <li>
     <a href="https://www.goodreads.com/book/show/356525.The_City_of_Joy?ref=nav_sb_ss_1_15"><strong>The City of Joy</strong></a><br>
     <em>Dominique Lapierre</em>
