@@ -23,8 +23,8 @@ I believe in research that is rigorous, socially relevant, and openly communicat
 A real **“about me”**? I have a *mild* obsession with world flags, and *Midnight in Paris* is my guilty-pleasure rewatch.  
 
 Current read: *Dark Star Safari* by Paul Theroux.
-
 <p align="center">
-  <img src="/images/book.jpg" alt="Ivan Napoli" width="200px">
+  <a href="https://www.bbc.co.uk/programmes/b039bg5h" target="_blank">
+    <img src="/images/book.jpg" alt="Ivan Napoli" width="200px">
+  </a>
 </p>
-
