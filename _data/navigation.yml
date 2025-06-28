@@ -16,7 +16,9 @@ main:
     
   - title: "CV"
     url: /files/CV_Jun25.pdf
-    
+
+  - title: "Readings"
+    url: /books/
   # - title: "CV"
   #   url: /cv-json/
     
