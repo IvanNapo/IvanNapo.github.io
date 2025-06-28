@@ -313,6 +313,3 @@ compress_html:
   ignore:
     envs: development
   #
-  sass:
-  style: compressed
-  custom_css: "/assets/css/custom.css"
