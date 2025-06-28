@@ -4,7 +4,7 @@ title: "Books"
 author_profile: true
 ---
 
-Below are some of the books that have significantly shaped my economic thinking or are part of my interests. Feel free to suggest! 
+Below are some of the books that have significantly shaped my economic thinking or fed my curiosity in other areas. Feel free to suggest! 
 
 <ul>
   <li>
