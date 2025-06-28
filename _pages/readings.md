@@ -1,6 +1,6 @@
 ---
-permalink: /books/
-title: "Books"
+permalink: /readings/
+title: "Readings"
 author_profile: true
 ---
 
