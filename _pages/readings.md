@@ -8,7 +8,7 @@ Below are some of the books that have significantly shaped my economic thinking 
 
 <ul>
   <li>
-    <a href="https://www.goodreads.com/book/show/44767458-good-economics-for-hard-times" target="_blank"><strong>Good Economics for Hard Times</strong></a><br>
+    <a href="https://www.goodreads.com/book/show/51014619-good-economics-for-hard-times?ref=nav_sb_ss_1_11" target="_blank"><strong>Good Economics for Hard Times</strong></a><br>
     <em>Banerjee & Duflo</em>
   </li>
   <li>
