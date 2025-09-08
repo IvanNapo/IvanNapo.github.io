@@ -26,4 +26,6 @@ author_profile: true
 I was selected for the Global Youth Leaders Program 2024 in the “Innovation and Digital Transformation” priority area. 
 I engaged with experts from the Italian G7 Presidency, international organizations and major companies, contributing to policy proposals. 
 The program was supported by ILO, UNDP, OECD, UNICEF, UN SDG Lab, FAO, WFP and UNSSC.
-
+<p align="center">
+  <img src="/images/save_pic_presentation.jpg" alt="Conferences" width="600"/>
+</p>
