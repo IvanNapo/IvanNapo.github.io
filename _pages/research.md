@@ -9,7 +9,7 @@ author_profile: true
 - **ChatPhD: The Role of LLMs in Shaping the Research Practices and Productivity of Young Scholars**  
   Stefano Bianchini, Ivan Napoli, Pierre Pelletier, Gabriele Pellegrino
 
-- **Mobile Money and AI for Inclusive Finance in Zambia**  
+- **Mobile Money as a Source for Inclusive Finance: A Roadmap for AI and Data Interoperability in Zambia**  
   Ivan Napoli, fellowship Zambia Evidence Lab, IGC, LSE
 
 
