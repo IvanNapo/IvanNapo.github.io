@@ -316,3 +316,21 @@ compress_html:
   sass:
   style: compressed
   custom_css: "/assets/css/custom.css"
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+exclude:
+  - _drafts
+  - node_modules
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .sass-cache
+  - .jekyll-cache
+  - .git
+  - .gitignore
+  - .github
+  - LICENSE
+  - CNAME
