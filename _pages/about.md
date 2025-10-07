@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "Welcome!"
+title: "Ivan Napoli - About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-title: "Ivan Napoli – About Me"
-description: "PhD candidate in Economics of Innovation | AI impact, education & financial inclusion"
+
 
 Hello! I’m Ivan Napoli, a PhD candidate in *Economics of Innovation* at **Università Cattolica del Sacro Cuore** in Milan.
 
