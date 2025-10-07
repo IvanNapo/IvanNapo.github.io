@@ -10,10 +10,10 @@
 # Basic Site Settings
 locale: "en-US"
 site_theme: "default"
-title: "About Me"
+title: "Ivan Napoli"
 title_separator: "-"
 name: "Ivan Napoli"
-description: "Personal Description"
+description: "Ivan Napoli, PhD Candidate in Economics of Innovation (Università Cattolica del Sacro Cuore of Milan)"
 url: "https://ivannapo.github.io"
 baseurl: ""               # vuoto se pubblichi alla radice
 repository: "ivannapo/ivannapo.github.io"
