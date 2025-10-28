@@ -5,6 +5,8 @@ author_profile: true
 ---
 
 ## Conferences (as presenting author)
+- 2025: *IWM Fellows Conference - Digital Humanism*, IWM Vienna.
+- 2025: *Seminar Presentation*, TU Vienna.
 - 2025: *REGIS Innovation Studies Summer School*, Université de Bordeaux.
 - 2025: *18th Workshop on the Organisation, Economics and Policy of Scientific Research*, Université de Strasbourg.
 - 2025: *REGIS discussant for Italy*, presenting “Who is Replacing AI? The Impact of Generative AI on Online
