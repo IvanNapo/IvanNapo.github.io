@@ -19,7 +19,7 @@ author_profile: true
 
 - [Technology and Innovation Report 2025](https://www.un-ilibrary.org/content/books/9789211068016)  
   *Research Assistant – UNCTAD Technology and Innovation Report, 2024*
-- [A Deal With the Algorithm in the African Gig Economy](https://www.iwm.at/publications/iwmpost)
+- [A Deal With the Algorithm in the African Gig Economy](https://www.iwm.at/publications/iwmpost)    
   *IWMpost, forthcoming, 2025-26*
 ---
 
