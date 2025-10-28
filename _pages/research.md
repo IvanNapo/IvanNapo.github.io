@@ -15,11 +15,12 @@ author_profile: true
 
 ---
 
-## Policy Works
+## Policy Works et al. 
 
 - [Technology and Innovation Report 2025](https://www.un-ilibrary.org/content/books/9789211068016)  
   *Research Assistant – UNCTAD Technology and Innovation Report, 2024*
-
+- [A Deal With the Algorithm in the African Gig Economy]
+  *IWMpost, forthcoming*
 ---
 
 ## Fellowships
