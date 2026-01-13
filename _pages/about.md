@@ -22,9 +22,9 @@ I believe in research that is rigorous, socially relevant, and openly communicat
 
 A real **“about me”**? I have a *mild* obsession with world flags, and *Midnight in Paris* is my guilty-pleasure rewatch.  
 
-Current read: *Dark Star Safari* by Paul Theroux.
+Current read: *The Business Reinvention of Japan: How to Make Sense of the "new Japan" and Why It Matters* by Ulrike Schaede.
 <p align="center">
-  <a href="https://www.bbc.co.uk/programmes/b039bg5h" target="_blank">
+  <a href="https://www.goodreads.com/book/show/48817666-the-business-reinvention-of-japan#CommunityReviews">
     <img src="{{ '/images/book.jpg' | relative_url }}" alt="Ivan Napoli" width="200px" />
   </a>
 </p>
