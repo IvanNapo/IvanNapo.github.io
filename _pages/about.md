@@ -25,6 +25,6 @@ A real **“about me”**? I have a *mild* obsession with world flags, and *Midn
 Current read: *The Business Reinvention of Japan: How to Make Sense of the "new Japan" and Why It Matters* by Ulrike Schaede.
 <p align="center">
   <a href="https://www.goodreads.com/book/show/48817666-the-business-reinvention-of-japan#CommunityReviews">
-    <img src="{{ '/images/book.jpg' | relative_url }}" alt="Ivan Napoli" width="200px" />
+    <img src="{{ '/images/48817666._UX160_.jpg' | relative_url }}" alt="Ivan Napoli" width="200px" />
   </a>
 </p>
