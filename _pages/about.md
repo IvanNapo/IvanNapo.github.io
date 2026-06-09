@@ -22,9 +22,9 @@ I believe in research that is rigorous, socially relevant, and openly communicat
 
 A real **“about me”**? I have a *mild* obsession with world flags, and *Midnight in Paris* is my guilty-pleasure rewatch.  
 
-Current read: *The Business Reinvention of Japan: How to Make Sense of the "new Japan" and Why It Matters* by Ulrike Schaede.
+Current read: *The Navigators: A Journey in Search of Portugal's Lost Empire* by Erika Fatland.
 <p align="center">
-  <a href="https://www.goodreads.com/book/show/48817666-the-business-reinvention-of-japan#CommunityReviews">
+  <a href="https://www.goodreads.com/book/show/248140915-the-navigators?from_search=true&from_srp=true&qid=4BzKTkwwiv&rank=1">
     <img src="{{ '/images/48817666._UX160_.jpg' | relative_url }}" alt="Ivan Napoli" width="200px" />
   </a>
 </p>
