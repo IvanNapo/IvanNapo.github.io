@@ -25,6 +25,6 @@ A real **“about me”**? I have a *mild* obsession with world flags, and *Midn
 Current read: *The Navigators: A Journey in Search of Portugal's Lost Empire* by Erika Fatland.
 <p align="center">
   <a href="https://www.goodreads.com/book/show/248140915-the-navigators?from_search=true&from_srp=true&qid=4BzKTkwwiv&rank=1">
-    <img src="{{ '/images/48817666._UX160_.jpg' | relative_url }}" alt="Ivan Napoli" width="200px" />
+    <img src="{{ '/images/9788829794232_0_0_536_0_75.jpg' | relative_url }}" alt="Ivan Napoli" width="200px" />
   </a>
 </p>
