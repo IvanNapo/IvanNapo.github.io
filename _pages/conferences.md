@@ -19,7 +19,7 @@ assistants and task-based research support positions?"
 ---
 
 ## Training
--  2026: *Summer school "The Economics of Artificial Intelligence*; University of Siena.
+-  2026: *Summer school "The Economics of Artificial Intelligence"*; University of Siena.
 -  2026: *Social Protection Advanced Course*; Bureau for Research & Economic Analysis of Development, IGC.
 -  2025: *Workshop: Artificial Intelligence Algorithms in Practice*; University of Groningen.
 -  2024: *Advanced Training in Impact Evaluation of Development Policies*; Sapienza University, IFAD.
