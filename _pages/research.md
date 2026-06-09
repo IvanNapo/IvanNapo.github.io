@@ -8,8 +8,7 @@ author_profile: true
 
 - **ChatPhD: The Role of LLMs in Shaping the Research Practices and Productivity of Young Scholars**  
   Stefano Bianchini, Ivan Napoli, Pierre Pelletier, Gabriele Pellegrino
-- **How is generative AI reshaping demand for research  assistants and task-based research support positions? An exposure index for academia**
-   Ivan Napoli, Gabriele Pellegrino
+- **How is generative AI reshaping demand for research  assistants and task-based research support positions? An exposure index for academia** \\ Ivan Napoli, Gabriele Pellegrino
 - **Mobile Money as a Source for Inclusive Finance: A Roadmap for AI and Data Interoperability in Zambia**  
   Ivan Napoli, fellowship Zambia Evidence Lab, IGC, LSE
 
