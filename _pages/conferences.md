@@ -5,6 +5,8 @@ author_profile: true
 ---
 
 ## Conferences (as presenting author)
+- 2026: *REGIS discussant for Incubator Ideas Session*, presenting "How is generative AI reshaping demand for research 
+assistants and task-based research support positions?"
 - 2025: *IWM Fellows Conference - Digital Humanism*, IWM Vienna.
 - 2025: *Seminar Presentation*, TU Vienna.
 - 2025: *REGIS Innovation Studies Summer School*, Université de Bordeaux.
@@ -17,7 +19,8 @@ author_profile: true
 ---
 
 ## Training
-
+-  2026: *Summer school "The Economics of Artificial Intelligence*; University of Siena.
+-  2026: *Social Protection Advanced Course*; Bureau for Research & Economic Analysis of Development, IGC.
 -  2025: *Workshop: Artificial Intelligence Algorithms in Practice*; University of Groningen.
 -  2024: *Advanced Training in Impact Evaluation of Development Policies*; Sapienza University, IFAD.
 
